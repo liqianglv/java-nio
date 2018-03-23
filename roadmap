@@ -1,0 +1,3 @@
+linux io 模式及select，poll，epoll 命令详解： https://segmentfault.com/a/1190000003063859?_ea=292572
+reactor 设计模式：ector-design-pattern_netty-bases.pdf
+Doag Lee explian java nio：java-nio-daug_lee.pdf  
